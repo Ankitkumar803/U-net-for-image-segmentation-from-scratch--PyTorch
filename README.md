@@ -8,14 +8,14 @@ The implementation is based on the original U-Net paper, "U-Net: Convolutional N
 ![image](https://user-images.githubusercontent.com/78913240/231573472-242d2465-cf72-4dbc-9a72-00d2b1d7c650.png)
 
 ## Requirements
-Python 3.6+
-PyTorch 1.7.0+
-torchvision 0.8.1+
-numpy 1.19.2+
-matplotlib 3.3.2+
-tqdm 4.50.2+
-scikit-learn 0.23.2+
-pillow 8.0.1+
+- Python 3.6+
+- PyTorch 1.7.0+
+- torchvision 0.8.1+
+- numpy 1.19.2+
+- matplotlib 3.3.2+
+- tqdm 4.50.2+
+- scikit-learn 0.23.2+
+- pillow 8.0.1+
 
 ## Results
 The model achieved an F1 score of more than 0.9 on the test set
